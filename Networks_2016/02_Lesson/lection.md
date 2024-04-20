@@ -1,7 +1,7 @@
 # Классификация сетей
 
 
-<kbd>
+
 <p align="center">
  <img width="800px" src="class.png">
 </p>
@@ -41,8 +41,3 @@
  <img width="800px" src="sum.png">
 </p>
 <br>
-
-
-<kbd>
-<br>
-
